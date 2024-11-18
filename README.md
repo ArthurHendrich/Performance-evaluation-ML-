@@ -3,6 +3,6 @@
 
 ### Integrantes
 
-- Arthur Hendrich (aham@cesar.school) arthuralenc@gmail.com
-- Henrique Cordeiro (hcp@cesar.school) h.cordeirop@gmail.com
-- Rafael Falk (rmf2@cesar.school) rafael.falk@amigotech.com.br
+- [Arthur Hendrich](https://github.com/ArthurHendrich/) (aham@cesar.school) arthuralenc@gmail.com
+- [Henrique Cordeiro](https://github.com/HenriqueCordeiroP) (hcp@cesar.school) h.cordeirop@gmail.com
+- [Rafael Falk](https://github.com/falkrafa/) (rmf2@cesar.school) rafael.falk@amigotech.com.br
